@@ -71,7 +71,7 @@
     "@types/lodash.set": "^4.3.6",
     "@types/luxon": "^2.0.9",
     "@types/mui-datatables": "^3.7.7",
-    "@types/node": "^17.0.17",
+    "@types/node": "^18.14.0",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
     "@types/yup": "^0.29.13",
